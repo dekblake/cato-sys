@@ -1,6 +1,6 @@
 {
   "name": "Motion Canvas",
-  "image": "mcr.microsoft.com/devcontainers/javascript-node:18",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:24",
   "forwardPorts": [3000],
   "postCreateCommand": "npm install"
 }
